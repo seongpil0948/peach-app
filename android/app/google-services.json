@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "765895487459",
+    "project_id": "peach-hub-16c86",
+    "storage_bucket": "peach-hub-16c86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765895487459:android:018ef8ca3aa9aacc85fad6",
+        "android_client_info": {
+          "package_name": "love.peachhub.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765895487459-1cfc4l83s5kfb38ttlfuhjmuabq0j4q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "love.peachhub.app",
+            "certificate_hash": "f618d92ecfd64d9c5623f22239ed75b3669d9fcf"
+          }
+        },
+        {
+          "client_id": "765895487459-62ri5hh2l99vng4otms69ps8dfgs9pm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "love.peachhub.app",
+            "certificate_hash": "81f84eec4529fd4faeae7fb9cbf2f45f245e9eaf"
+          }
+        },
+        {
+          "client_id": "765895487459-7b9mvqv6ibs2iuh28mqta8tg8rols4u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5LiUJ_RH5zO6MdFiQfEK-xMKgfbU_ZpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765895487459-7b9mvqv6ibs2iuh28mqta8tg8rols4u9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "765895487459-uj2v5dopgv705r1kk3evoarh52scgotk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "love.peachhub.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
